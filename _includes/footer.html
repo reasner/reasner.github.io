@@ -8,7 +8,6 @@
       <div class="footer-col  footer-col-1">
         <ul class="contact-list">
           <li><strong>{{ site.title }}</strong></li>
-<li><em>{{ site.subtitle }}</em></li>
 			<li>{{ site.jobtitle }}</li>
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
         </ul>
@@ -18,33 +17,27 @@
  
 
          <p class="text">
-{{ site.address | newline_to_br  }}
+		Department of Political Science<br />
+		232 Brackett Hall<br />
+		Clemson, SC 29634-1354</p> <!-- {{ site.description }} -->
       </div>
 
       <div class="footer-col  footer-col-3">
        <ul class="social-media-list">
+
+                  {% if site.google_scholar_id %}
+  <li>
+    <a href="https://scholar.google.com/citations?user={{ site.google_scholar_id }}">
+      <i class="ai ai-google-scholar" style="color:gray"></i> Google Scholar
+    </a>
+  </li>
+{% endif %}
      
 
           {% if site.github_username %}
   <li>
-    <a href="https://github.com/{{ site.githubdir }}">
-      <i class="fab fa-github" style="color:gray"></i> {{ site.githubdir }}
-    </a>
-  </li>
-{% endif %}
-
-          {% if site.twitter_username %}
-  <li>
-    <a href="https://twitter.com/{{ site.twitter_username }}">
-      <i class="fab fa-twitter" style="color:gray"></i> {{ site.twitter_username }}
-    </a>
-  </li>
-{% endif %}
-
-          {% if site.google_scholar_id %}
-  <li>
-    <a href="https://scholar.google.com/citations?user={{ site.google_scholar_id }}">
-      <i class="ai ai-google-scholar" style="color:gray"></i> {{ site.google_scholar_id }}
+    <a href="https://github.com/{{ site.github_username }}">
+      <i class="fa fa-github" style="color:gray"></i> Github
     </a>
   </li>
 {% endif %}
@@ -52,18 +45,21 @@
           {% if site.orcid_id %}
   <li>
     <a href="https://orcid.org/{{ site.orcid_id }}">
-      <i class="ai ai-orcid" style="color:gray"></i> {{ site.orcid_id }}
+      <i class="ai ai-orcid" style="color:gray"></i> ORCID
     </a>
   </li>
 {% endif %}
 
-          {% if site.authorurl %}
+          {% if site.twitter_username %}
   <li>
-    <a href="{{site.authorurl}}">
-      <i class="fas fa-globe" style="color:gray"></i> {{site.authorurl |  remove: "https://" | remove: "http://" | remove: "www." }}
+    <a href="https://twitter.com/{{ site.twitter_username }}">
+      <i class="fa fa-twitter" style="color:gray"></i> Twitter
     </a>
   </li>
 {% endif %}
+
+
+
 
 
 
