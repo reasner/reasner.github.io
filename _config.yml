@@ -1,3 +1,4 @@
+#
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -30,9 +31,19 @@ linkedin_username: reasner
 github_username:  reasner
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+
+# Navigation links
+header pages:
+ - about.md
+ - cv.md
+ - research.md
+ - teaching.md
+
+#sass/SCSS
+sass:
+  sass_dir: ./_sass
+  style: compressed
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
