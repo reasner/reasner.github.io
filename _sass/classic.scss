@@ -1,13 +1,17 @@
 @charset "utf-8";
 
-$brand-color:           #828282 !default;
+$brand-color:           #CFB991 !default;
 $brand-color-light:     lighten($brand-color, 40%) !default;
 $brand-color-dark:      darken($brand-color, 25%) !default;
+$cool-gray:		#6F727B !default;
+$boilermaker-gold:	#CFB991 !default;
+$black:			#000000 !default;
+$white:			#FFFFFF !default;
 
-$site-title-color:      $brand-color-dark !default;
+$site-title-color:      $white !default;
 
-$text-color:            #111111 !default;
-$background-color:      #fdfdfd !default;
+$text-color:            #555960 !default;
+$background-color:      #FFFFFF !default;
 $code-background-color: #eeeeff !default;
 
 $link-base-color:       #2a7ae2 !default;

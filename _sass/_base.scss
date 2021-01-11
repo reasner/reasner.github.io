@@ -133,6 +133,40 @@ a {
   }
 }
 
+/**
+ * Navigation Links
+ */
+
+a.page-link {
+      color: $white;
+      font-weight: bold;
+      text-decoration: none;
+
+      &:hover {
+        color: $boilermaker-gold;
+	font-weight: bold; 
+      } 
+}
+
+/**
+ * Title Link
+ */
+
+a.site-title {
+      color: $white;
+      font-weight: bold;
+      text-decoration: none;
+
+      &:hover {
+	color: $boilermaker-gold;
+	font-weight: bold;
+      }
+
+}
+
+
+
+
 
 /**
  * Blockquotes
