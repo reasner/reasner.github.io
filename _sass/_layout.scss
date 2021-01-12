@@ -9,7 +9,9 @@
   background: $dark-gray;
 
   // Positioning context for the mobile navigation icon
-  position: relative;
+  position: fixed;
+  top: 0;
+  width: 100%;
 }
 
 .site-title {
@@ -205,6 +207,7 @@
 .page-content {
   padding: $spacing-unit 0;
   flex: 1 0 auto;
+  margin-top: $spacing-unit * 1.8;
 }
 
 .page-heading {
