@@ -6,5 +6,7 @@ order: 3
 permalink: /cv/
 ---
 
-Follow this link to download a copy of my curriculum vitae.
+Download a copy of my [curriculum vitae](../assets/docs/reasner_cv_dec20.pdf).
+
+<iframe src="../assets/docs/reasner_cv_dec20.pdf" class="gde-frame" style="height: 800px; width: 100%; border: none;" scrolling="yes"></iframe>
 

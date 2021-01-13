@@ -5,57 +5,29 @@ menu: main
 order: 2
 permalink: /teaching/
 ---
-
+<!---
 Teaching Statement:
+--->
+
+### Teaching Experience
+
+| Purdue University | West Lafayette, IN |
+| ----------- | ----------: |
+| Teaching Assistant for ECON 370, International Trade | Fall 2020 |
+| Teaching Assistant for ECON 466, International Economics | Fall 2019 |
+| Teaching Assistant for ECON 370, International Trade | Fall 2019 |
+| Teaching Assistant for ECON 515, Macroeconomics (MBA) | Fall 2018 |
+| Teaching Assistant for ECON 370, International Trade | Fall 2018 |
+| Instructor for ECON 251, Microeconomics |Summer 2018 |
+| Teaching Assistant for ECON 514, Microeconomics (MBA) | Fall 2017 |
+| Teaching Assistant for ECON 419, Managerial Economics | Spring 2017 |
+| Teaching Assistant for ECON 380, Money & Banking | Spring 2017 |
+| Recitation Instructor for ECON 210, Principles of Economics | Fall 2016 |
+{:.custom-table}
+
+| Vanderbilt University | Nashville, TN |
+| ----------- | ----------: |
+| Recitation Instructor for ECON 150, Economic Statistics | Spring 2015 |
+{:.custom-table}
 
 
-Purdue University:
-
-
-Vanderbilt University:
-
-test
-
-test
-
-test
-
-test
-
-test
-
-test
-
-test
-
-test
-
-test
-
-test
-
-test
-
-test
-
-test
-
-test
-
-test
-
-test
-
-test
-
-test
-
-test
-
-test
-
-test
-
-test
-
-test

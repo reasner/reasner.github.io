@@ -149,8 +149,70 @@
 	margin-bottom:0;
 }
 
-.footer-list {
+.github-list {
 	margin-top:0;
+	list-style: none;
+	margin-bottom:5px;
+	line-height: 20px;
+	vertical-align: middle;
+}
+
+.github-list > li::before { 
+ content: '';   
+ display: inline-block;   
+ height: 20px;   
+ width: 20px;    
+ background-size: 20px;   
+ background-image: url('../../assets/images/github.svg'); 
+ background-repeat: no-repeat;   
+ margin-right: 5px;
+ background-position: center center;
+ vertical-align: middle;
+ margin-bottom: 5px;
+}
+
+.linkedin-list {
+        margin-top:0;
+        list-style: none;
+	margin-bottom:5px;
+        line-height: 20px;
+        vertical-align: middle;
+}
+
+.linkedin-list > li::before {
+ content: '';
+ display: inline-block;
+ height: 20px;
+ width: 20px;
+ background-size: 20px;
+ background-image: url('../../assets/images/linkedin.svg');
+ background-repeat: no-repeat;
+ margin-right: 5px;
+ background-position: center center;
+ vertical-align: middle;
+ margin-bottom: 5px;
+}
+
+.garmin-list {
+        margin-top:0;
+        list-style: none;
+        margin-bottom:5px;
+        line-height: 20px;
+        vertical-align: middle;
+}
+
+.garmin-list > li::before {
+ content: '';
+ display: inline-block;
+ height: 20px;
+ width: 20px;
+ background-size: 20px;
+ background-image: url('../../assets/images/c.svg');
+ background-repeat: no-repeat;
+ margin-right: 5px;
+ background-position: center center;
+ vertical-align: middle;
+ margin-bottom: 5px;
 }
 
 .footer-col-wrapper,
@@ -207,6 +269,11 @@
   }
 }
 
+li.github {
+backkground: url('./assets/images/github.svg') no-repeat left top;
+//padding-left: none;
+//display: block;
+}
 
 
 /**
@@ -365,4 +432,14 @@
 html {
 	overflow-y: scroll;
 }
+
+
+/**
+ * Layouts
+ */
+
+.home {
+	margin-top: $spacing-unit;
+}
+
 
