@@ -13,8 +13,6 @@ dl, dd, ol, ul, figure {
 
 }
 
-
-
 /**
  * Basic styling
  */
@@ -148,8 +146,8 @@ a {
   }
 
   &:hover {
-    color: $boilermaker-gold;
-    background-color: $steam;
+    color: $rush;
+    background-color: none;
   }
 
   .social-media-list &:hover {
@@ -194,9 +192,23 @@ a.site-title {
 
 }
 
+/**
+ * Footer link
+ */
 
+a.footer-link {
+	color: $steel;
+	text-decoration: none;
+//	border-bottom:1px $steel solid;
+//	padding-bottom: 1px;
 
-
+	&:hover{
+	  color: $white;
+//	  text-decoration: none;
+//	  border-bottom:1px $white solid;
+//        padding-bottom: 1px;
+	}
+}
 
 /**
  * Blockquotes

@@ -145,6 +145,14 @@
   margin-left: 0;
 }
 
+.footer-text {
+	margin-bottom:0;
+}
+
+.footer-list {
+	margin-top:0;
+}
+
 .footer-col-wrapper,
 .social-links {
   @include relative-font-size(0.9375);
@@ -348,3 +356,13 @@
     width: calc(50% - (#{$spacing-unit} / 2));
   }
 }
+
+
+/**
+ * Scroll
+ */
+
+html {
+	overflow-y: scroll;
+}
+
