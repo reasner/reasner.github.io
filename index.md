@@ -1,8 +1,14 @@
 ---
 layout: home
-title: Welcome
+title: Welcome!
 ---
 
-{% include image.html url="./assets/images/reasner_me.jpg" width=350 align="right" %}
+{% include image.html url="./assets/images/reasner_me.jpg" width=325 align="right" %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed velit. Eget felis eget nunc lobortis mattis aliquam. Ipsum a arcu cursus vitae congue mauris. Sit amet purus gravida quis. Mi ipsum faucibus vitae aliquet nec ullamcorper sit amet risus. Semper quis lectus nulla at volutpat diam ut venenatis. Purus faucibus ornare suspendisse sed nisi lacus sed viverra tellus. Rutrum quisque non tellus orci ac auctor. Nunc sed blandit libero volutpat sed cras ornare arcu. Facilisi nullam vehicula ipsum a arcu cursus. Quisque sagittis purus sit amet volutpat consequat. Auctor neque vitae tempus quam pellentesque. Ante metus dictum at tempor.
+Welcome! I am a PhD candidate in the [Department of Economics](https://krannert.purdue.edu/academics/Economics/) at [Purdue University](https://www.purdue.edu/). My research focuses on economic geography, i.e., the spatial variation in economic activity, and international trade, with a particular focus on economic development and spatial inequality. You can find my abstracts, working papers, and a list of works in progress on my [research]({{site.baseurl}}/research/) page. 
+
+Before coming to Purdue, I graduated from [Vanderbilt University](https://www.vanderbilt.edu/) with a BA in [Economics](https://as.vanderbilt.edu/economics/). I have also worked as a Research Analyst (Short Term Consultant) at the [World Bank](https://www.worldbank.org/). 
+
+I will be on the 2021-2022 job market and I expect to graduate in May 2022. 
+
+When I am not in my office, I enjoy taking in nature while running or hiking. I also love to travel, especially when I get a chance to scuba dive or ski!

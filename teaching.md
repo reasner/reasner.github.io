@@ -2,6 +2,7 @@
 layout: page
 title: Teaching
 menu: main
+order: 2
 permalink: /teaching/
 ---
 

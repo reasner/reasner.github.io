@@ -2,6 +2,7 @@
 layout: page
 title: CV
 menu: main
+order: 3
 permalink: /cv/
 ---
 

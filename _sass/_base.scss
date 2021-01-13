@@ -6,7 +6,7 @@ html {
  * Reset some basic elements
  */
 body, h1, h2, h3, h4, h5, h6,
-p, blockquote, pre, hr,
+p, blockquote, pre, hr,  
 dl, dd, ol, ul, figure {
   margin: 0;
   padding: 0;
@@ -34,7 +34,9 @@ body {
   overflow-wrap: break-word;
 }
 
-
+.custom-table th, .custom-table td {
+   padding: 1px;
+}
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
@@ -87,8 +89,12 @@ img {
 	margin-left: auto;
 	margin-right: auto;
 }
-
-
+//make image centered on mobile
+@media only screen and (max-width: $on-large) {
+	display: block;
+        margin-left: auto;
+        margin-right: auto;
+}
 
 
 
@@ -123,10 +129,10 @@ li {
 
 
 /**
- * Headings
+ * Headings (basically all # from markdown)
  */
 h1, h2, h3, h4, h5, h6 {
-  font-weight: $base-font-weight;
+  font-weight: bold;
 }
 
 
@@ -135,16 +141,16 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: $steel;
+  color: $boilermaker-gold;
   text-decoration: none;
 
   &:visited {
-    color: $steel;
+    color: $boilermaker-gold;
   }
 
   &:hover {
-    color: $steel;
-    text-decoration: underline;
+    color: $boilermaker-gold;
+    background-color: $steam;
   }
 
   .social-media-list &:hover {
@@ -167,7 +173,8 @@ a.page-link {
 
       &:hover {
         color: $boilermaker-gold;
-	font-weight: bold; 
+	font-weight: bold;
+	background-color: $dark-gray; 
       } 
 }
 
@@ -183,6 +190,7 @@ a.site-title {
       &:hover {
 	color: $boilermaker-gold;
 	font-weight: bold;
+	background-color: $dark-gray;
       }
 
 }
