@@ -8,7 +8,7 @@ permalink: /teaching/
 <!---
 Teaching Statement:
 --->
-
+***
 ### Teaching Experience
 
 | Purdue University | West Lafayette, IN |
