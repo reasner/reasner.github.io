@@ -193,7 +193,7 @@
  margin-bottom: 5px;
 }
 
-.garmin-list {
+.strava-list {
         margin-top:0;
         list-style: none;
         margin-bottom:5px;
@@ -201,13 +201,13 @@
         vertical-align: middle;
 }
 
-.garmin-list > li::before {
+.strava-list > li::before {
  content: '';
  display: inline-block;
  height: 20px;
  width: 20px;
  background-size: 20px;
- background-image: url('../../assets/images/c.svg');
+ background-image: url('../../assets/images/strava.svg');
  background-repeat: no-repeat;
  margin-right: 5px;
  background-position: center center;
