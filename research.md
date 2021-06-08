@@ -18,7 +18,7 @@ I quantify agglomeration and congestion spillovers using variation from a natura
 
 We quantify the impact of neighboring firms' importing experience on the decision to start sourcing inputs from new markets using data from Serbian firms. We find that firms are more likely to start importing from a new market if neighboring firms in the same industry have experience importing from that market and if those firms are increasing their imports over time. Further, our results support a distinction between imports and exports for the decision to enter foreign markets; unlike exports, import sourcing choices are not independent across countries. In particular, we find that imports across origins are substitutes, not complements. Together, these findings suggest that a firm's spatial connections are an important contributor to its access to foreign markets as sources for inputs.
 
-#### Heterogeneity in Fiscal Multipliers Revisited 
+#### Fiscal Multipliers and Defense Spending 
 
 ### Research Experience:
 
