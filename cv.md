@@ -8,5 +8,5 @@ permalink: /cv/
 ***
 Download a copy of my [curriculum vitae](../assets/docs/reasner_cv.pdf).
 
-<iframe src="../assets/docs/reasner_cv_0621.pdf" class="gde-frame" style="height: 800px; width: 100%; border: none;" scrolling="yes"></iframe>
+<iframe src="../assets/docs/reasner_cv.pdf" class="gde-frame" style="height: 800px; width: 100%; border: none;" scrolling="yes"></iframe>
 
