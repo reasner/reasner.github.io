@@ -8,7 +8,7 @@ permalink: /research/
 ***
 ### Working Papers:
 
-#### Identifying Agglomeration and Congestion Elasticities: Implications for Optimal Spatial Policy \[[Link](../assets/docs/reasner_jmp_0731.pdf)\]
+#### Identifying Agglomeration and Congestion Elasticities: Implications for Optimal Spatial Policy \[[Link](../assets/docs/reasner_jmp.pdf)\]
 
 I quantify agglomeration and congestion spillovers using variation from a natural experiment by instrumenting for changes in local employment with proposed changes to civilian employment at military installations through the Base Realignment and Closure (BRAC) process. I find an agglomeration spillover elasticity consistent with the existing literature. However, my estimate of the congestion spillover elasticity is smaller in magnitude than common parameterizations of quantitative economic geography models. All else equal, with a weaker congestion spillover elasticity, more of the distribution of economic activity across space is due to natural advantages and disadvantages, which implies that the gains from implementing an optimal spatial policy are smaller. 
 
