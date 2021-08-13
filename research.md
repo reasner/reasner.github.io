@@ -28,7 +28,7 @@ I estimate county-level fiscal multipliers using shocks to military employment t
 | Purdue University | West Lafayette, IN |
 | ----------- | ----------: |
 | Research Assistant to Prof. Anson Soderbery | May  2017 – Present |
-| Research Assistant to Prof. Victoria Prowse | May 2021 – Present |
+| Research Assistant to Prof. Victoria Prowse | May 2021 – August 2021 |
 | Research Assistant to Prof. Farid Farrokhi | Aug. 2019 - May 2020 | 
 | Research Assistant to Prof. Joe Mazur | Jan. 2018 – May 2018 |
 | Research Assistant to Prof. Victoria Prowse | May 2017 – Aug. 2017 |
