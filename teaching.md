@@ -11,6 +11,7 @@ Teaching Statement:
 ***
 
 Download a copy of my [teaching statement](../assets/docs/teaching.pdf).
+
 ### Teaching Experience
 
 | Purdue University | West Lafayette, IN |
@@ -25,7 +26,7 @@ Download a copy of my [teaching statement](../assets/docs/teaching.pdf).
 | Teaching Assistant for ECON 514, Microeconomics (MBA) | Fall 2017 |
 | Teaching Assistant for ECON 419, Managerial Economics | Spring 2017 |
 | Teaching Assistant for ECON 380, Money & Banking | Spring 2017 |
-| Recitation Instructor for ECON 210, Principles of Economics [(Eval?)](../assets/docs/reasner_eval_210_fa16.pdf) | Fall 2016 |
+| Recitation Instructor for ECON 210, Principles of Economics [(Eval.)](../assets/docs/reasner_eval_210_fa16.pdf) | Fall 2016 |
 {:.custom-table}
 
 | Vanderbilt University | Nashville, TN |
