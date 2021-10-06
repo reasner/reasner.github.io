@@ -13,8 +13,8 @@ permalink: /research/
 
 I quantify agglomeration and congestion spillovers using variation from a natural experiment by instrumenting for changes in local employment with proposed changes to civilian employment at military installations through the Base Realignment and Closure (BRAC) process. I find an agglomeration spillover elasticity consistent with the existing literature. However, my estimate of the congestion spillover elasticity is smaller in magnitude than common parameterizations of quantitative economic geography models. All else equal, with a weaker congestion spillover elasticity, more of the distribution of economic activity across space is due to natural advantages and disadvantages. This result implies that the gains from implementing the optimal spatial policy are smaller. 
 
-#### International Sourcing and Firm Learning: Evidence from Serbian Firms (with Shawn W. Tan (World Bank)
-##### World Bank Policy Research Working Paper: [WPS9790](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/903471633369980079/international-sourcing-and-firm-learning-evidence-from-serbian-firms)
+#### International Sourcing and Firm Learning: Evidence from Serbian Firms (with Shawn W. Tan, World Bank)
+##### [WPS9790 (World Bank Policy Research Working Paper Series)](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/903471633369980079/international-sourcing-and-firm-learning-evidence-from-serbian-firms)
 
 We quantify the impact of neighboring firms' importing experience on the decision to start sourcing inputs from new markets using merged customs and administrative data from Serbian firms. We find that firms are more likely to start importing from a new market if neighboring firms in the same industry and location have experience importing from that market and if those firms are increasing their imports over time. Further, our results support a distinction between imports and exports for the decision to enter foreign markets; unlike exports, import sourcing choices are not independent across countries. We find that imports across origins are substitutes, not complements. We also investigate origin-country and firm heterogeneity. Our results indicate that the impact of neighboring firms' importing experience is greater for source countries in the European Union market and for firms that are high productivity, foreign owned, and previous importers. Together, these findings suggest that a firm's spatial connections are an important contributor to its access to global markets as sources for inputs.
 
@@ -27,8 +27,7 @@ I estimate county-level fiscal multipliers using shocks to military employment t
 
 #### Spatial Reallocation and Climate Change: Evidence from Climate-biased Technological Change
 
-#### First- versus Late-mover Performance in International Sourcing
-##### with Shawn W. Tan (World Bank)  
+#### First- versus Late-mover Performance in International Sourcing (with Shawn W. Tan, World Bank)
 
 ### Research Experience:
 
