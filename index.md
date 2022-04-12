@@ -9,6 +9,4 @@ Welcome! I am a PhD candidate in the [Department of Economics](https://krannert.
 
 Before coming to Purdue, I graduated from Vanderbilt University with a BA in [Economics](https://as.vanderbilt.edu/economics/). I have also worked as a Research Analyst (Short Term Consultant) at the [World Bank](https://www.worldbank.org/). 
 
-I will be on the 2021-2022 job market and I expect to graduate in May 2022. 
-
 When I am not in my office, I enjoy taking in nature while running or hiking. I also love to travel, especially when I get a chance to scuba dive or ski!
