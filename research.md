@@ -27,8 +27,6 @@ I estimate county-level fiscal multipliers using shocks to military employment t
 
 #### Spatial Reallocation and Climate Change: Evidence from Climate-biased Technological Change
 
-#### First- versus Late-mover Performance in International Sourcing (with Shawn W. Tan, World Bank)
-
 ### Research Experience:
 
 | Purdue University | West Lafayette, IN |
